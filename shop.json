@@ -1,0 +1,16 @@
+{
+    "shop_items":[
+        {
+            "itemID": "01",
+            "name": "Élucidator",
+            "desc": "Une des épées de Kirito",
+            "price": "5000"
+        },
+        {
+            "itemID": "02",
+            "name": "Tenue ténèbreuse",
+            "desc": "Possède un look ténébreux stylé.",
+            "price": "1000"
+        }
+    ]
+}
